@@ -284,7 +284,7 @@ ROM_END
 
 ROM_START( kidizmtb )
 	ROM_REGION(  0x10800000, "nand", ROMREGION_ERASE00 )
-	ROM_LOAD( "kidizoomtwistdutchfw.bin", 0x0000, 0x10800000, CRC(b87861c4) SHA1(8b5cc2557b54a37928be818430b91c48db98758f) )
+	ROM_LOAD( "kidizoomtwistdutchfw.bin", 0x0000, 0x10800000, CRC(9e24def0) SHA1(af51114f8e184e354205fc916b5db17e44da26e0) )
 ROM_END
 
 ROM_START( pocketmp )
